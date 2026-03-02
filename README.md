@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
@@ -105,9 +105,12 @@
 <img src="https://raw.githubusercontent.com/Ethelbert-cell/Ethelbert-cell/output/snake.svg" alt="Snake animation" />
 
 ###
-
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ethelbert-cell&theme=tokyonight-duo&border_radius=20" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Ethelbert-cell&theme=tokyonight-duo&border_radius=20" alt="GitHub Streak" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
 </div>
 
 ###
